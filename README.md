@@ -1,2 +1,2 @@
-# meijex
-HI6MeijEX (WebServer)
+# VIPER
+HI6_Viper (NetServer)
